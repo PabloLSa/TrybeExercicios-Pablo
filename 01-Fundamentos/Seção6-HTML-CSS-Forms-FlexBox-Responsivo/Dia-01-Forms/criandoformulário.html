@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form.html</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header style="text-align :center" id="form-header">
+<h1>TrybeTrip</h1>
+    </header>
+    <br>
+<p style="text-align :center">
+        <img style="text-align :center" src="/fundamentos/6.1-Seção: HTML e CSS: Forms, Flexbox e Responsivo/dia-01/logo-negative-green.svg" alt="">
+    </p>
+    
+   
+    <form style="text-align :center" action="" method="get" id="myform" class="formName">
+        <br>
+        <fieldset class="branca">
+       
+            <section id="nomeCompleto"> 
+        <label for="name">Nome:</label>
+        <input placeholder="Escreva seu nome" minlength="10" maxlength="40" type="text" name="nome" id="name" value="" required>
+    </section>
+    <br>
+
+            <section id="e-mail">
+
+                <label for="e-mail">Email:</label>
+                <input placeholder="Escreva seu e-mail" minlength="10" maxlength="50" type="email" name="email" id="e-mails" value="" required>
+
+            </section>
+
+            <br>
+
+            <section id="locais">
+                <h2 style="text-align :center" >
+                Destino Preferido :    
+                </h2>
+
+                <input type="radio" name= "local" id="local1">
+                <label for="local1">Cidade</label>
+
+                <input type="radio" name= "local"id="local2">
+                <label for="local2">Campo</label>
+
+                <input type="radio" name="local" id="local3">
+                <label for="local3">Praia</label>
+
+                <input type="radio" name="local" id="local4">
+                <label for="local4">Montanha</label>
+
+            </section>
+
+            <br>
+
+                <textarea required itemid="textarea" name="" id="por que" cols="30" rows="10" minlength="30" maxlength="500" placeholder="Escreva sua resposta em até 500 caracteres "></textarea>
+            </section>
+            <br>
+        
+            <section>
+
+                <br>
+
+                <h4>Qual a melhor data para você realizar a sua viagem?</h4>
+
+                <input type="date" name="" id="date">
+
+            </section>
+                <br>
+
+                <section>
+
+                    <input type="checkbox" name="ofertas" id="ofertas2">
+                    <label for="ofertas2">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+                        <br>
+
+                    <input required type="checkbox" name="ofertas" id="ofertas1">
+                    <label for="ofertas1">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+                    
+                </section>
+
+                    <br>
+        </fieldset>   
+
+             <label for="botao1"> Clique aqui para participar do concurso</label>
+             
+            <button id="botao1" type="submit"> Particpar do concurso Trybe!!</button>
+
+            <button id="botao2" type="reset">Apagar</button>
+
+
+        </form>
+    
+    <script src="script.js"></script>
+</body>
+</html>
