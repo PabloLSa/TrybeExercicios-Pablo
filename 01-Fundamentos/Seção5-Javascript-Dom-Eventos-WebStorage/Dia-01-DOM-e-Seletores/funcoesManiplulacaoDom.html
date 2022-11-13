@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício</title>
+    
+    <style>
+      main, section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin: 0 auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <header> 
+      <h1 id="tag1" class="title">Exercício - JavaEscripito </h1>
+    </header>    
+    <main class="main-content">
+      <section id="content" class="center-content">
+        <p id="texto1">Texto padrão do nosso site</p>
+        <p>-----</p>
+        <p>Trybe</p>
+      </section>
+    </main>
+    <script>
+        function texto (){
+          let txt =  document.getElementsByTagName('p')[1].innerText='Dev'
+            return txt;
+        }
+
+        function mudarCor1(){
+          let cor  =  document.getElementsByClassName('main-content')[0].style.backgroundColor = 'rgb(76,164,109)';
+            
+          return cor;
+        } 
+        function mudorCor2(){
+           let cor2 = document.getElementById("content").style.backgroundColor = "white";
+
+            return cor2
+        }
+        function textoTag1(){
+          let textoTag1 =  document.getElementById('tag1').innerHTML ='Go Javascript'
+
+          return textoTag1;
+        }
+        function mudancaParaLetraMaiuscula(){
+            let texto1 = document.getElementById('texto1');
+            texto1.style.textTransform = 'uppercase';
+            return texto1;
+         
+        }
+
+        texto();
+
+        mudarCor1();
+
+        mudorCor2();
+
+
+        textoTag1();
+
+
+        mudancaParaLetraMaiuscula()
+
+    </script>
+   
+  </body>
+</html>
