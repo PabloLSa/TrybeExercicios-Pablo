@@ -1,2 +1,2 @@
-# TrybeExercicios-Pablo
+# TrybeExercícios-Pablo
 Exercícios Trybe Pablo 
