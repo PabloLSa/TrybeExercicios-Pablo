@@ -17,5 +17,8 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "extends": "trybe-frontend"
+  "extends": "trybe-frontend",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
 }

@@ -1,5 +1,6 @@
 // Vamos importar nossa biblioteca
 import validator from 'validator';
+import './style.css';
 
 // Aqui, vamos selecionar, pelos ids, os campos em nossa página
 const campoDeTexto = document.querySelector('#value');
@@ -15,11 +16,12 @@ botao.addEventListener('click', (event) => {
   // Aqui, criamos um objeto cujas chaves são os tipos a
   // serem validados. Por exemplo, a chave CPF valida se
   // o campoDeTexto.value é um CPF.
+  const numero = 4;
   const campos = {
     cpf: validator.isTaxID(campoDeTexto.value, 'pt-BR'),
     hexColor: validator.isHexColor(campoDeTexto.value),
     email: validator.isEmail(campoDeTexto.value),
-    uuid: validator.isUUID(campoDeTexto.value, 4),
+    uuid: validator.isUUID(campoDeTexto.value, numero),
     url: validator.isURL(campoDeTexto.value),
   };
 
