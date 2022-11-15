@@ -1,0 +1,19 @@
+{
+  "name": "api-superheroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.6.8",
+    "vite": "^3.2.4",
+    "type": "module",
+    "lint": "eslint ./src"
+  }
+}
