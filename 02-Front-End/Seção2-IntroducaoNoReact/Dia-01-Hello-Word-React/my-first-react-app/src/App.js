@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react' // importando de uma biblioteca
+import ReactClass from './components/ReactClass.jsx' // importando de um caminho relativo
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+      <ReactClass/>
         <a
           className="App-link"
           href="https://reactjs.org"
