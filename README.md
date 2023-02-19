@@ -42,7 +42,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Arte com Pixels]()_
+- [x] 5-5: _Projeto - Arte com Pixels-https://github.com/PabloLSa/PixelsArt/blob/pabloLsa-sd-027-b-project-pixels-art/script.js
 
 ##### Seção 6: HTML & CSS avançado
 
