@@ -52,6 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _Projeto - Trybewarts-https://github.com/PabloLSa/Trybewarts/tree/pablo-landimdesa-sd-027-b-project-trybewarts_
+- https://pixels-art-tau.vercel.app/
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
 
