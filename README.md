@@ -25,7 +25,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: Projeto - Lessons Learned() https://github.com/PabloLSa/Lessons-Learned
+- [x] 3-5: Projeto <a href="https://github.com/PabloLSa/Lessons-Learned " target="_blank">Lessons Learned</a>
+
+</a> 
 - https://lessons-learned-red.vercel.app/
 
 ##### Seção 4: Introdução - JavaScript
