@@ -42,7 +42,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Projeto - Arte com Pixels-https://github.com/PabloLSa/PixelsArt/blob/pabloLsa-sd-027-b-project-pixels-art/script.js
+- [x] 5-5: _Projeto - Arte com Pixels-https://github.com/PabloLSa/PixelsArt/blob/pabloLsa-sd-027-b-project-pixels-art/script.
+- https://pixels-art-tau.vercel.app/
 
 ##### Seção 6: HTML & CSS avançado
 
@@ -52,7 +53,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _Projeto - Trybewarts-https://github.com/PabloLSa/Trybewarts/tree/pablo-landimdesa-sd-027-b-project-trybewarts_
-- https://pixels-art-tau.vercel.app/
+- https://trybewarts-alpha.vercel.app/?email=numy%40mailinator.com&password=Pa%24%24w0rd%21
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
 
