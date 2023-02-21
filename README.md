@@ -25,10 +25,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: Projeto <a href="https://github.com/PabloLSa/Lessons-Learned " target="_blank">Lessons Learned</a>
+- [x] 3-5: Projeto <a href="https://github.com/PabloLSa/Lessons-Learned " target="_blank"> Code Lessons Learned</a>
 
 </a> 
-- https://lessons-learned-red.vercel.app/
+- <a href="https://lessons-learned-red.vercel.app/ " target="_blank">Lessons Learned</a>
 
 ##### Seção 4: Introdução - JavaScript
 
@@ -45,8 +45,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Projeto - <a href="https://github.com/PabloLSa/PixelsArt" target="_blank">Pixels Art</a>
-- https://pixels-art-tau.vercel.app/ 
+- [x] 5-5: _Projeto - <a href="https://github.com/PabloLSa/PixelsArt" target="_blank"> Code Pixels Art</a>
+- <a href="https://pixels-art-tau.vercel.app/" target="_blank">Pixels Art</a>
 
 ##### Seção 6: HTML & CSS avançado
 
@@ -55,8 +55,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6:  <a href="https://github.com/PabloLSa/Trybewarts" target="_blank">Trybewarts</a>
-- https://trybewarts-alpha.vercel.app/?email=numy%40mailinator.com&password=Pa%24%24w0rd%21
+- [x] 6-6:  <a href="https://github.com/PabloLSa/Trybewarts" target="_blank"> Code Trybewarts</a>
+- <a href="https://trybewarts-alpha.vercel.app/?email=numy%40mailinator.com&password=Pa%24%24w0rd%21 " target="_blank">Trybewarts</a>
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
 
@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions- reduce_
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-6: Projeto - Zoo functions https://github.com/PabloLSa/Zoo-Functions/tree/sd-027-b-PaloLSa-zoo-functions-project
+- [x] 8-6: Projeto - <a href="https://github.com/PabloLSa/Zoo-Functions" target="_blank">Zoo-Functions</a>
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
