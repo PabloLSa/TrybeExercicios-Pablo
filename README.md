@@ -86,45 +86,46 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Introdução à React
 
 - [x] 10-1: _'Hello, world!' no React!_
-- [ ] 10-2: _Componentes React_
+- [x] 10-2: _Componentes React_
 - [x] 10-3: _[Projeto - Sistema Solar]()_
 
 ##### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _Components com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-1: _Components com estado e eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo]()_
 
 ##### Seção 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12-1: _Ciclo de vida de componentes_
-- [ ] 12-2: _React Router_
-- [ ] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-1: _Ciclo de vida de componentes_
+- [x] 12-2: _React Router_
+- [x] 12-3: _[Projeto - TrybeTunes]()_
 
 ##### Seção 5: Metodologias Ágeis
 
-- [ ] 13-1: _Metodologias Ágeis_
-- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-1: _Metodologias Ágeis_
+- [x] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Seção 6: Testes automatizados com React Testing Library
 
-- [ ] 14-1: _RTL - Primeiros passos_
-- [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-1: _Testando React Router_
-- [ ] 14-3: _[Projeto - Testes em React]()_
+- [x] 14-1: _RTL - Primeiros passos_
+- [x] 14-2: _RTL - Mocks e Inputs_
+- [x] 14-1: _Testando React Router_
+- [x] 14-3: _[Projeto - Testes em React]()_
 
 ##### Seção 7: Gerenciamento de estado com Redux
 
-- [ ] 15-1: _Introdução ao Redux_
-- [ ] 15-2: _Usando o Redux no Reack_ 
-- [ ] 15-3: _Usando o Redux no Reack - Prática_
-- [ ] 15-4: _Usando o Redux no Reack - Actions Assíncronos_
-- [ ] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 15-1: _Introdução ao Redux_
+- [x] 15-2: _Usando o Redux no Reack_ 
+- [x] 15-3: _Usando o Redux no Reack - Prática_
+- [x] 15-4: _Usando o Redux no Reack - Actions Assíncronos_
+- [x] 16-5: _Testes em React-Redux_
+- [x] 16-6: _Projeto - https://github.com/PabloLSa/Trybe-Wallet
+- <a href="https://trybe-wallet-ten.vercel.app/ " target="_blank">Trybe Wallet</a>
 
 ##### Seção 8: Projeto Jogo de Trivia
 
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[Projeto - Jogo de Trivia]()_
 
 ##### Seção 9: Context API e React Hooks
 
