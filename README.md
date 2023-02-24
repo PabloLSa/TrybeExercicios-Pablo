@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: Projeto <a href="https://github.com/PabloLSa/Lessons-Learned " target="_blank"> Code Lessons Learned</a>
+- [x] 3-5: Projeto <a href="https://github.com/PabloLSa/Lessons-Learned " target="_blank">Lessons Learned</a>
 
 </a> 
 - <a href="https://lessons-learned-red.vercel.app/ " target="_blank">Lessons Learned</a>
@@ -45,7 +45,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Projeto - <a href="https://github.com/PabloLSa/PixelsArt" target="_blank"> Code Pixels Art</a>
+- [x] 5-5: _Projeto - <a href="https://github.com/PabloLSa/PixelsArt" target="_blank">Pixels Art</a>
 - <a href="https://pixels-art-tau.vercel.app/" target="_blank">Pixels Art</a>
 
 ##### Seção 6: HTML & CSS avançado
@@ -55,7 +55,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6:  <a href="https://github.com/PabloLSa/Trybewarts" target="_blank"> Code Trybewarts</a>
+- [x] 6-6:  <a href="https://github.com/PabloLSa/Trybewarts" target="_blank">Trybewarts</a>
 - <a href="https://trybewarts-alpha.vercel.app/?email=numy%40mailinator.com&password=Pa%24%24w0rd%21 " target="_blank">Trybewarts</a>
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
@@ -120,7 +120,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 15-3: _Usando o Redux no Reack - Prática_
 - [x] 15-4: _Usando o Redux no Reack - Actions Assíncronos_
 - [x] 16-5: _Testes em React-Redux_
-- [x] 16-6: _Projeto - https://github.com/PabloLSa/Trybe-Wallet
+- [x] 16-6: _Projeto -<a href="https://github.com/PabloLSa/Trybe-Walle" target="_blank">Trybe Wallet</a>
 - <a href="https://trybe-wallet-ten.vercel.app/ " target="_blank">Trybe Wallet</a>
 
 ##### Seção 8: Projeto Jogo de Trivia
