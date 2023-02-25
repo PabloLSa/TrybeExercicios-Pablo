@@ -53,7 +53,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6:  <a href="https://github.com/PabloLSa/Trybewarts" target="_blank">Trybewarts</a>
+- [x] 6-6: _Projeto - <a href="https://github.com/PabloLSa/Trybewarts" target="_blank">Trybewarts</a>
 - <a href="https://trybewarts-alpha.vercel.app/?email=numy%40mailinator.com&password=Pa%24%24w0rd%21 " target="_blank">Trybewarts</a>
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 7-3: _Primeiros passos em Jest_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _Projeto- <a href="https://github.com/PabloLSa/JS-Testes-Unit-rios" target="_blank">JavaScript Teste Unitários</a>
 
 ##### Seção 8: Higher Order Functions do JavaScript ES6
 
