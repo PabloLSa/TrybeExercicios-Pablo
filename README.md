@@ -118,7 +118,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 15-3: _Usando o Redux no Reack - Prática_
 - [x] 15-4: _Usando o Redux no Reack - Actions Assíncronos_
 - [x] 16-5: _Testes em React-Redux_
-- [x] 16-6: _Projeto -<a href="https://github.com/PabloLSa/Trybe-Walle" target="_blank">Trybe Wallet</a>
+- [x] 16-6: _Projeto -<a href="https://github.com/PabloLSa/Trybe-Wallet" target="_blank">Trybe Wallet</a>
 - <a href="https://trybe-wallet-ten.vercel.app/ " target="_blank">Trybe Wallet</a>
 
 ##### Seção 8: Projeto Jogo de Trivia
