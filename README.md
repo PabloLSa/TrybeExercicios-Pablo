@@ -127,10 +127,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 9: Context API e React Hooks
 
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Seção 10: Projeto App de Receitas
 
@@ -140,10 +140,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Docker: Utilizando Containers
 
-- [ ] 19-1: _Utilizando Containers - Docker_
-- [ ] 19-2: _Manipulando Imagens no Dockers_
-- [ ] 19-3: _Orquestrando Containers com Docker Compose_
-- [ ] 19-4: _[Projeto - Docker Todo-list]()_
+- [x] 19-1: _Utilizando Containers - Docker_
+- [x] 19-2: _Manipulando Imagens no Dockers_
+- [x] 19-3: _Orquestrando Containers com Docker Compose_
+- [x] 19-4: _Projeto -<a href="https://github.com/PabloLSa/DockerList" target="_blank">DockerList</a>
 
 ##### Seção 2: Introdução à SQL
 
