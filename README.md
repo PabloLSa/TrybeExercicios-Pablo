@@ -97,12 +97,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
-- [x] 12-3: __Projeto - <a href="https://github.com/PabloLSa/Trybe Tunes">TrybeTunes</a>
+- [x] 12-3: __Projeto - <a href="https://github.com/PabloLSa/Trybe Tunes">Trybe Tunes</a>
 
 ##### Seção 5: Metodologias Ágeis
 
 - [x] 13-1: _Metodologias Ágeis_
-- [x] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-2: __Projeto - <a href="https://github.com/PabloLSa/Online-Store">Online Store</a>
 
 ##### Seção 6: Testes automatizados com React Testing Library
 
