@@ -124,7 +124,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 8: Projeto Jogo de Trivia
 
-- [x] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _ _Projeto -<a href="https://github.com/PabloLSa/Trivia" target="_blank">Trivia</a>
+- [ ] <a href="https://trivia-aja2rcmxg-pablolsa.vercel.app/" target="_blank">Trivia</a>
 
 ##### Seção 9: Context API e React Hooks
 
