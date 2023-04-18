@@ -1,6 +1,7 @@
 
 import React, { Component } from 'react';
 import { connect } from 'react-redux'
+import { addTodo } from '../Redux/actions/actions';
 
  class AddForm extends Component {
   state = {
@@ -10,9 +11,20 @@ import { connect } from 'react-redux'
   handleImput = ({target : {value}}) => {
 this.setState({ todoText: value });
   }
-  handleTodo = () =>{
 
-  }
+  handleAddTodo = () => {
+
+    const { dispatch } = this.props;
+    const { todoText } = this.state
+    const todo = {
+      id: 0,
+      todoText: todoText,
+      active: true,
+    };
+
+    dispatch(addTodo(todo));
+
+  };
 
   render() {
     const { todoText} = this.state;
@@ -20,11 +32,11 @@ this.setState({ todoText: value });
       <div className="addForm">
         <input 
             type='text' 
-            name='todoTExt'
+            name='todoText'
             value={todoText}
             onChange={this.handleImput}
         />
-          <button onClick={this.handleTodo}>+</button>
+          <button onClick={this.handleAddTodo}>+</button>
       </div>
     
     );
