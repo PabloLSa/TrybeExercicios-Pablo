@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Pablo Landim de Sa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
 }
