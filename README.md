@@ -157,14 +157,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 3: Funções SQL, JOINs e Normalização
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs_
-- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4:  _Projeto -<a href="https://github.com/PabloLSa/One-For-All#readme" target="_blank">One For All</a>
+- [x] 21-1: _Funções mais usadas no SQL_
+- [x] 21-2: _Descomplicando JOINs_
+- [x] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [x] 21-4:  _Projeto -<a href="https://github.com/PabloLSa/One-For-All#readme" target="_blank">One For All</a>
 
 ##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 22-1: _Node.js: Runtime Assíncrono_
+- [x] 22-1: _Node.js: Runtime Assíncrono_
 - [ ] 22-2: _Node.js: API REST com Espress_
 - [ ] 22-3: _Node.js:Testes de integração_
 - [ ] 22-4: _Express: Middlewares_
