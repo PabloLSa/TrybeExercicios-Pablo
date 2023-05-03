@@ -165,17 +165,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
 - [x] 22-1: _Node.js: Runtime Assíncrono_
-- [ ] 22-2: _Node.js: API REST com Espress_
-- [ ] 22-3: _Node.js:Testes de integração_
-- [ ] 22-4: _Express: Middlewares_
-- [ ] 22-5: _Node.js: Espress e Mysql_
-- [ ] 22-6: _Projeto -<a href="https://github.com/PabloLSa/talker-manager" target="_blank">Talker Manager</a>
+- [x] 22-2: _Node.js: API REST com Espress_
+- [x] 22-3: _Node.js:Testes de integração_
+- [x] 22-4: _Express: Middlewares_
+- [x] 22-5: _Node.js: Espress e Mysql_
+- [x] 22-6: _Projeto -<a href="https://github.com/PabloLSa/talker-manager" target="_blank">Talker Manager</a>
 
 ##### Seção 5:  Arquitetura de Software: Model, Service e Controller
 
-- [ ] 23-1: _Arquitetura de Software: Camada Model_
-- [ ] 23-2: _Arquitetura de Software: Camada Service_
-- [ ] 23-3: _Arquitetura de Software: Camada Controller_
+- [x] 23-1: _Arquitetura de Software: Camada Model_
+- [x] 23-2: _Arquitetura de Software: Camada Service_
+- [x] 23-3: _Arquitetura de Software: Camada Controller_
 - [ ] 23-4: _[Projeto - Store Manager]()_
 
 ##### Seção 6: Node.js: ORM e Autenticação
