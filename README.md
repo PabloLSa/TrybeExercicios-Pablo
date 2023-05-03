@@ -169,7 +169,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 22-3: _Node.js:Testes de integração_
 - [ ] 22-4: _Express: Middlewares_
 - [ ] 22-5: _Node.js: Espress e Mysql_
-- [ ] 22-6: _Atividades + [Projeto - Data Flights]()_
+- [ ] 22-6: _Projeto -<a href="https://github.com/PabloLSa/talker-manager" target="_blank">Talker Manager</a>
 
 ##### Seção 5:  Arquitetura de Software: Model, Service e Controller
 
