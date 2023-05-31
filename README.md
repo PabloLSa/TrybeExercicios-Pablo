@@ -184,7 +184,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 24-2: _ORM - Associations_
 - [x] 24-3: _JWT - (JSON Web Token)_
 - [x] 24-4: _Testando APIs com Testes de Integração_
-- [x] 24-5: _ Projeto -<a href="https://github.com/PabloLSa/talker-manager](https://github.com/PabloLSa/blogs-api" target="_blank">Blogs Api</a>      
+- [x] 24-5: _ Projeto -<a href="https://github.com/PabloLSa/blogs-api" target="_blank">Blogs Api</a>      
 
 ##### Seção 7 - Deployment
 
