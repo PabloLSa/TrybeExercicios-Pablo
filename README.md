@@ -98,6 +98,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
 - [x] 12-3: __Projeto - <a href=https://github.com/PabloLSa/TrybeTunes>Trybe Tunes</a>
+- <a href="https://trybe-tunes-phi.vercel.app/" target="_blank">Trybe Tunes</a>
 
 ##### Seção 5: Metodologias Ágeis
 
