@@ -186,19 +186,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 24-3: _JWT - (JSON Web Token)_
 - [x] 24-4: _Testando APIs com Testes de Integração_
 - [x] 24-5: _ Projeto -<a href="https://github.com/PabloLSa/blogs-api" target="_blank">Blogs Api</a>      
-
-##### Seção 7 - Deployment
-
-- [ ] 25-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Projeto - Stranger Things]()_
-
 ##### Seção 8 - TypeScript
 
-- [ ] 26-1: _Introdução ao TypeScript_
-- [ ] 26-2: _Tipagem Estática e Generics_
-- [ ] 26-3: _Express com TypeScript_
-- [ ] 26-4: _[Projeto - Trybe Smith]()_
+- [x] 26-1: _Introdução ao TypeScript_
+- [x] 26-2: _Tipagem Estática e Generics_
+- [x] 26-3: _Express com TypeScript_
+- [x] 26-4: _ Projeto -<a href="https://github.com/PabloLSa/trybesmith" target="_blank">Trybesmith</a>    
 
 ##### Seção 9 - Programação Orientada a Objetos (POO) e SOLID
 
